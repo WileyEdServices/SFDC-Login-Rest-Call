@@ -1,0 +1,1 @@
+Main-class: QA-GlobAppOutRestApi.RestTest
